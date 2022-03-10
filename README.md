@@ -4,6 +4,7 @@ For python programs install dependencies:
 ```
 pip install wheel
 pip install pandas
+pip install matplotlib
 ```
 Use this command to run the python program:
 ```
