@@ -3,7 +3,7 @@ import os
 from matplotlib import pyplot as plt
 from sklearn.metrics import mean_squared_error
 
-GROUND_TRUTH_Z = 217.5
+GROUND_TRUTH_Z = 217.5 # cm
 
 
 def main():
