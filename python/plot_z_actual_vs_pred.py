@@ -7,7 +7,7 @@ GROUND_TRUTH_Z = 217.5
 
 
 def main():
-  directory = "../toplot/"
+  directory = "./to_plot/"
   stats_dict = {"file name": [], "z data": [], "z rmse": [], "n": []}
   for path in os.listdir(directory):
     curr = pd.read_csv(directory + path)
