@@ -1,0 +1,39 @@
+{
+    "calibration": "conf.json",
+    "device": {
+        "device_id": "1423020009686"
+    },
+    "experiment": {
+        "data": "blob_log.parquet",
+        "device_settings": {
+            "left": {
+                "led_level": 0.6000000238418579,
+                "roi": [
+                    448.0,
+                    1140.0,
+                    1775.0,
+                    2045.0
+                ]
+            },
+            "right": {
+                "led_level": 0.47999998927116394,
+                "roi": [
+                    348.0,
+                    1120.0,
+                    1703.0,
+                    2045.0
+                ]
+            }
+        },
+        "end": "2022-04-19T18:34:02+0000",
+        "name": "z_up_10",
+        "start": "2022-04-19T18:33:48+0000",
+        "thumbs": {
+            "0.000000": [
+                "img-00000-0.jpg",
+                "img-00000-1.jpg"
+            ]
+        }
+    },
+    "software_version": "v1-30-g0a62ad959f7b"
+}
