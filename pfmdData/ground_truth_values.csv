@@ -79,7 +79,7 @@ z_up_10.csv,z_up_10,2.519425,
 2022-04-22_23-48-13.csv,z_right_7,1.801555,
 2022-04-22_23-48-23.csv,z_right_8,1.801555,
 2022-04-22_23-58-45.csv,z_right_9,1.801555,
-2022-04-22_23-58-52.csv,z_right_10,1.801555,TODO: Check what this has problem with
+2022-05-17_20-53-39.csv,z_right_10,1.801555,"Issue fixed, the orignial file (2022-04-22_23-58-52.csv) is incorrect"
 2022-04-22_23-35-17.csv,z_right_11,1.801555,
 2022-04-22_23-36-15.csv,z_right_12,1.801555,
 2022-04-22_23-35-48.csv,z_right_13,2.192475,
@@ -264,7 +264,7 @@ z_up_10.csv,z_up_10,2.519425,
 2022-05-10_18-25-11.csv,z_00_23,2.587,
 2022-05-10_18-24-58.csv,z_00_24,2.587,
 2022-05-10_18-25-58.csv,z_00_25,2.587,
-2022-05-10_18-25-58.csv,x_center_1,2.615,
+2022-05-17_19-40-04.csv,x_center_1,2.615,"fixed duplicaed file name, redownloaded and uploaded to github"
 2022-05-10_18-49-55.csv,x_center_2,2.615,
 2022-05-10_18-48-57.csv,x_center_3,2.615,
 2022-05-10_18-50-00.csv,x_center_4,2.615,
